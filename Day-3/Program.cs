@@ -1,8 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿/*// See https://aka.ms/new-console-template for more information
+//
 using System.ComponentModel;
 using System.Text.RegularExpressions;
-
 
 bool isValidNum(string[] lines, int xstart,int xend, int y)
 {
@@ -129,4 +128,4 @@ int day = 3;
 var input = File.ReadLines($"C:\\Projects\\AdventOfCode2022\\2023\\AdventOfCode-2023\\Day-{day}\\input.txt");
 //var input = File.ReadLines($"C:\\Projects\\AdventOfCode2022\\2023\\AdventOfCode-2023\\Day-{day}\\test-input.txt");
 Console.WriteLine(partOne(input.ToArray()));
-Console.WriteLine(partTwo(input.ToArray()));
+Console.WriteLine(partTwo(input.ToArray()));*/

@@ -12,6 +12,7 @@ int partTwo(IEnumerable<string> lines)
     return 2;
 }
 
-//var input = File.ReadLines("C:\\Projects\\AdventOfCode2022\\2023\\AdventOfCode-2023\\Day-2\\input.txt");
-var input = File.ReadLines("C:\\Projects\\AdventOfCode2022\\2023\\AdventOfCode-2023\\Day-2\\test-input.txt");
+int day = 1;
+//var input = File.ReadLines($"C:\\Projects\\AdventOfCode2022\\2023\\AdventOfCode-2023\\Day-{day}\\input.txt");
+var input = File.ReadLines($"C:\\Projects\\AdventOfCode2022\\2023\\AdventOfCode-2023\\Day-{day}\\test-input.txt");
 */
